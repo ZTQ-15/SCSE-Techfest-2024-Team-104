@@ -2,6 +2,8 @@ This is Our Smart Cookbook System, in which we streamline and optimise the cooki
 time to whip up complex dishes
 
 
+The recipe.pdf is a sample output showcasing our prototype's capabilities
+
 Acknowledgements
 https://www.usu.edu/aggiewellness/files/USU-Student-Cookbook-FINAL-1.pdf
 https://fis.carmarthenshire.gov.wales/wp-content/uploads/2018/12/easy-pleasy-cookbook.pdf
